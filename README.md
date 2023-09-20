@@ -9,7 +9,8 @@ Ele possui alguns algoritmos desenvolvidos para isso que esta representado no di
 
 Aqui está o diagrama de classes do projeto. Ele mostra a estrutura do código e como as diferentes classes interagem entre si.
 
-![Diagrama de Classes]
+![[Diagrama de Classes](Diagrama%20Classes.png?raw=true)]
+
 
 ## Como Jogar
 
